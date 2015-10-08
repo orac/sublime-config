@@ -1,12 +1,19 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
-	"font_face": "Input Serif",
-	"line_numbers": false,
-	"dictionary": "Packages/Language - English/en_GB.dic",
 	"always_show_minimap_viewport": true,
-	"indent_guide_options": ["draw_normal", "draw_active"],
-	"ensure_newline_at_eof_on_save": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"default_line_ending": "unix",
-	"shift_tab_unindent": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Input Serif",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": false,
+	"shift_tab_unindent": true
 }
